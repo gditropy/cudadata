@@ -1,6 +1,5 @@
 MIT License
 
-Copyright (c) 2022 Sangbeom Hong
 Copyright (c) 2022 Sangbeom Hong (gditropy@naver.com)
 
 
